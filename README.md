@@ -15,7 +15,7 @@ optional arguments:
 ```
 Examples:
 ```
-python exploit.py -u admin@example.org -p password123 -w 'http://remote.website/' -i 10.10.10.1 -o 1234
+python exploit.py -u admin@example.org -p password123 -w 'http://remote.website/' -i 10.10.10.1
 ```
 
 ## Requirements
