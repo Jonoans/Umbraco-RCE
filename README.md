@@ -27,4 +27,4 @@ pip install -r requirements.txt
 
 ## Reference
 This is a touch-up of [noraj's PoC](https://github.com/noraj/Umbraco-RCE/) which is based off [EDB-ID-46153](https://www.exploit-db.com/exploits/46153).  
-This version immediates allows an attacker to gain a PowerShell reverse shell.
+This version provides a PowerShell reverse shell upon execution.
