@@ -12,7 +12,6 @@ optional arguments:
   -p PASS, --password PASS   Login password
   -w URL, --website-url URL  Root URL
   -i IP, --ip IP             IP address of callback listener
-  -o PORT, --port PORT       Port of callback listener
 ```
 Examples:
 ```
