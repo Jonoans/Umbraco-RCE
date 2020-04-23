@@ -2,7 +2,7 @@
 
 ## Usage
 ```
-usage: exploit.py [-h] -u USER -p PASS -w URL -i IP [-o PORT]
+usage: exploit.py [-h] -u USER -p PASS -w URL -i IP
 
 Umbraco authenticated RCE
 
